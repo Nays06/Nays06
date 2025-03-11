@@ -81,7 +81,7 @@
 
 <h1 align="center">GitHub Stats</h1>
 
-<div>
+<div align="center">
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
