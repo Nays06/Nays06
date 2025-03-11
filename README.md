@@ -7,3 +7,16 @@
 <h1 align="center">About me</h1>
 
 <p align="center">Some information about me and my profession</p>
+
+<h1 align="center">Technologies & Tools</h1>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Frontend:	</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
+      </td>
+    </tr>
+  </tbody>
+</table>
