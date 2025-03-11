@@ -87,3 +87,11 @@
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nays06&theme=solarized_dark)
   
 </div>
+
+<h1 align="center">Achievements</h1>
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Nays06)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
