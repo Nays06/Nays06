@@ -83,9 +83,7 @@
 
 <div align="center">
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nays06&theme=solarized_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nays06&theme=solarized_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nays06&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nays06&theme=solarized_dark)
   
 </div>
