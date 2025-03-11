@@ -10,7 +10,7 @@
 
 <h1 align="center">Technologies & Tools</h1>
 
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td>Frontend:	</td>
