@@ -85,8 +85,8 @@
 
 <div align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nays06&theme=react" width="330">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nays06&theme=react" width="330">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nays06&theme=prussian" width="330">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nays06&theme=prussian" width="330">
   
   
 </div>
