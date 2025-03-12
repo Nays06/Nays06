@@ -85,8 +85,8 @@
 
 <div align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nays06&theme=solarized_dark" width="320">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nays06&theme=solarized_dark" width="320">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nays06&theme=solarized_dark" width="325">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nays06&theme=solarized_dark" width="325">
   
   
 </div>
@@ -95,6 +95,6 @@
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Nays06&row=1&column=4&margin-w=44&theme=algolia" width="600">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nays06&row=1&column=4&margin-w=44&theme=algolia" width="700">
 
 </div>
