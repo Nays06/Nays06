@@ -101,7 +101,7 @@
 
 <div align="center">🌐 Connect with Me 📲</div>
 
-<div>
+<div align="center">
 
   <a href="https://t.me/magaasov" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/37251ad8dcaeeaafdd0c728120e05a4e98bd67b7d6323013e304460a59f9ff47/68747470733a2f2f706e6769636f6e2e72752f66696c652f75706c6f6164732f74656c656772616d2e706e67" data-canonical-src="https://pngicon.ru/file/uploads/telegram.png"></a>
   
