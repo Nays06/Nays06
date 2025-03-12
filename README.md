@@ -95,8 +95,8 @@
 <div align="center">
   
   <img src="https://github-profile-trophy.vercel.app/?username=Nays06&row=1&column=1" width="200">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nays06&row=1&column=2" width="200">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nays06&row=1&column=3" width="200">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nays06&row=1&column=4" width="200">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nays06&row=2&column=1" width="200">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nays06&row=3&column=1" width="200">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nays06&row=4&column=1" width="200">
 
 </div>
