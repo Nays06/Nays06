@@ -99,7 +99,7 @@
 
 </div>
 
-<div align="center">🌐 Connect with Me 📲</div>
+<h1 align="center">🌐 Connect with Me 📲</h1>
 
 <div align="center">
 
