@@ -98,3 +98,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Nays06&row=1&column=4&margin-w=44&theme=algolia" width="662">
 
 </div>
+
+<div align="center">🌐 Connect with Me 📲</div>
+
+<div>
+
+  [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/ItHubMagas)
+  
+</div>
