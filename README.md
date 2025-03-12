@@ -94,6 +94,6 @@
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Nays06&theme=algolia&column=4&row=1&margin-w=45&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-trophy.vercel.app/?username=Nays06&row=2" width="400">
 
 </div>
