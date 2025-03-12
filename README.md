@@ -6,8 +6,10 @@
 
 <h1 align="center">✨ About me 🚀</h1>
 
-<p align="center" style="width: 646px;">
-  👋 Hi, I'm Nays06, a passionate and driven developer with a focus on building robust and user-friendly applications. I enjoy tackling complex challenges and continuously learning new technologies to improve my skills. Currently, I'm exploring the world of Angular framework. I'm always open to collaboration and learning from other talented developers! 
+<p align="center">
+  <div style="width: 646px;">
+    👋 Hi, I'm Nays06, a passionate and driven developer with a focus on building robust and user-friendly applications. I enjoy tackling complex challenges and continuously learning new technologies to improve my skills. Currently, I'm exploring the world of Angular framework. I'm always open to collaboration and learning from other talented developers! 
+  </div>
 </p>
 
 <h1 align="center">🛠️ Technologies & Tools 🧰</h1>
