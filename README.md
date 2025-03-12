@@ -103,6 +103,6 @@
 
 <div>
 
-  [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/ItHubMagas)
+  [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0088cc&color=white)](https://t.me/ItHubMagas)
   
 </div>
