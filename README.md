@@ -95,6 +95,6 @@
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Nays06&row=1&column=4&margin-w=44&theme=algolia" width="680">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nays06&row=1&column=4&margin-w=44&theme=algolia" width="663">
 
 </div>
