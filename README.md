@@ -99,6 +99,15 @@
 
 </div>
 
+<h1 align="center">🤝 I've Contributed To 🌟</h1>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedLyanov&repo=VayKino&bg_color=050e2b&text_color=84a3d2&title_color=00afff&icon_color=9F9F9F&border_color=FFFFFF" width="330">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amart302&repo=Canteen&bg_color=050e2b&text_color=84a3d2&title_color=00afff&icon_color=9F9F9F&border_color=FFFFFF" width="330">
+
+</div>
+
 <h1 align="center">🌐 Connect with Me 📲</h1>
 
 <div align="center">
