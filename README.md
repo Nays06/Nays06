@@ -108,7 +108,7 @@
 
 </div>
 
-<h1 align="center">🌐 Connect with Me 📲</h1>
+<h1 align="center">🌐 Contact with Me 📲</h1>
 
 <div align="center">
 
